@@ -1,2 +1,0 @@
-say-hello:
-    "Hello World!"
